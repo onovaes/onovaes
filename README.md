@@ -2,24 +2,18 @@
 
 Sou **formado em Engenharia de Computação** e atualmente moro em Campo Grande/MS. Em 2003 começei a estagiar e desenvolver meus primeiros códigos com C++ e PHP/MySQL.
 
-Atualmente trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou revisando *pull requests*, automatizando processos ou treinando alguns desenvolvedores da equipe.
+Atualmente trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou revisando *pull requests* em PHP, automatizando processos ou treinando alguns desenvolvedores da equipe.
 
 Sou responsável por uma dezena de servidores Linux trabalhando em alta disponibilidade que rodam a [plataforma dothnews](https://www.dothnews.com.br)
 
 ### Trabalho e me interesso por
 
- - Micro Serviços
  - Kong API Gateway (Se você tem alguma dúvida sobre o Kong, entre em contato comigo, [quero te ajudar](https://www.facebook.com/groups/572729720804030))
- - Shell Script
- - DEVOPS
- - PHP
- - Docker/Containers
- - PYTHON
- - MYSQL
- - REDIS
- - POSTGRES
- - AWS
- - Digital Ocean
+ - Ansible
+ - Cultura DEVOPS
+ - PHP, Python e Shell Script
+ - MYSQL, REDIS e POSTGRES
+ - AWS e Digital Ocean
 
 ### Me encontre aqui
 
