@@ -15,15 +15,15 @@
 </div>
 
 
-Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e moro em Campo Grande/MS. Começei em 2003 a desenvolver meus primeiros códigos em C++ e PHP com MySQL ainda no estágio da universidade. 
+Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e moro em Campo Grande/MS. Em 2003, ainda na Universidade comecei a estagiar e desenvolver meus primeiros códigos em **C++ e PHP** com MySQL.
 
-Trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou revisando *pull requests* em php, automatizando processos, criando pipelines ou treinando desenvolvedores da equipe. Também gosto muito de codar e faço isso sempre que tenho tempo.
+Atualmente trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou **revisando *pull requests*** (a maioria em php), **automatizando processos**, **criando pipelines** ou treinando desenvolvedores da equipe. Também gosto muito de codar e faço isso sempre que tenho tempo.
 
 Junto com a minha equipe também sou responsável pelos servidores *Linux* trabalhando em alta disponibilidade, servindo mensalmente mais de 200 milhões de *pages views* na [plataforma dothnews](https://www.dothnews.com.br)
 
-### Trabalho e me interesso por
+### Trabalho e tenho interesse em:
 
- - Kong API Gateway (✨Se você tem alguma dúvida sobre o Kong, entre em contato comigo, [quero te ajudar](https://www.facebook.com/groups/572729720804030))
+ - Kong API Gateway (:hugs:Se você tem alguma dúvida sobre o Kong, entre em contato comigo, [quero te ajudar](https://www.facebook.com/groups/572729720804030))
  - Cultura DEVOPS e Arquitetura de aplicações distribuídas
  - Ansible e Terraform
  - Bitbucket
