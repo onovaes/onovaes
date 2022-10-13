@@ -15,7 +15,7 @@
 </div>
 
 
-Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e moro em Campo Grande/MS. Em 2003, ainda na Universidade comecei a estagiar e desenvolver meus primeiros códigos em **C++ e PHP** com MySQL.
+Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e moro em Campo Grande/MS :brazil:. Em 2003, ainda na Universidade comecei a estagiar e desenvolver meus primeiros códigos em **C++ e PHP** com MySQL.
 
 Atualmente trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou **revisando *pull requests*** (a maioria em php), **automatizando processos**, **criando pipelines** ou treinando desenvolvedores da equipe. Também gosto muito de codar e faço isso sempre que tenho tempo.
 
