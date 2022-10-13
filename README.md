@@ -23,7 +23,7 @@ Junto com a minha equipe também sou responsável pelos servidores *Linux* traba
 
 ### Trabalho e tenho interesse em:
 
- - Kong API Gateway (:hugs:Se você tem alguma dúvida sobre o Kong, entre em contato comigo, [quero te ajudar](https://www.facebook.com/groups/572729720804030))
+ - Kong API Gateway (Se você tem alguma dúvida sobre o Kong, entre em contato comigo, [quero te ajudar :hugs:](https://www.facebook.com/groups/572729720804030))
  - Cultura DEVOPS e Arquitetura de aplicações distribuídas
  - Ansible e Terraform
  - Bitbucket
