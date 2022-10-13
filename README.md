@@ -2,7 +2,9 @@
 
 <div id="badges" align="center">
 
-<h1>Olá, meu nome é Gabriel Novaes</h1>
+<h1>Olá, meu nome é Gabriel Novaes</h1> 
+
+
 
 <a href="https://www.linkedin.com/in/onovaes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,6 +35,9 @@ Junto com a minha equipe também sou responsável pelos servidores *Linux* traba
  - MYSQL, REDIS e POSTGRES
  - AWS e Digital Ocean
  
+---
+
+![](https://komarev.com/ghpvc/?username=onovaes&color=green)
 
 <!---
 
