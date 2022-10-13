@@ -2,7 +2,7 @@
 
 <div id="badges" align="center">
 
-<h1>Olá, meu nome é Gabriel Novaes</h1>
+<h2>Olá, meu nome é Gabriel Novaes</h2>
 
 <a href="https://www.linkedin.com/in/onovaes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
