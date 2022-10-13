@@ -1,10 +1,6 @@
-
-
 <div id="badges" align="center">
 
 <h1>Olá, meu nome é Gabriel Novaes</h1> 
-
-
 
 <a href="https://www.linkedin.com/in/onovaes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +15,7 @@
 </div>
 
 
-Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e moro em Campo Grande/MS. Começei em 2003 a desenvolver meus primeiros códigos em C++ e PHP/MySQL ainda no estágio da Universidade. 
+Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e moro em Campo Grande/MS. Começei em 2003 a desenvolver meus primeiros códigos em C++ e PHP com MySQL ainda no estágio da universidade. 
 
 Trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou revisando *pull requests* em php, automatizando processos, criando pipelines ou treinando desenvolvedores da equipe. Também gosto muito de codar e faço isso sempre que tenho tempo.
 
@@ -37,7 +33,7 @@ Junto com a minha equipe também sou responsável pelos servidores *Linux* traba
  
 ---
 
-![](https://komarev.com/ghpvc/?username=onovaes&color=green)
+![](https://komarev.com/ghpvc/?username=onovaes&color=green&style=for-the-badge)
 
 <!---
 
