@@ -17,11 +17,11 @@
 </div>
 
 
-Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e atualmente moro em Campo Grande/MS. Começei em 2003 a desenolver meus primeiros códigos em C++ e PHP/MYSQL ainda no estágio da Universiadade. 
+Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e atualmente moro em Campo Grande/MS. Começei em 2003 a desenvolver meus primeiros códigos em C++ e PHP/MySQL ainda no estágio da Universiadade. 
 
-Atualmente trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou revisando *pull requests* em php, automatizando processos, criando pipelines ou treinando desenvolvedores da equipe. 
+Atualmente trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou revisando *pull requests* em php, automatizando processos, criando pipelines ou treinando desenvolvedores da equipe. Também gosto muito de codar e faço isso sempre que tenho tempo.
 
-Junto com a minha equipe, também sou responsável pelos servidores *Linux* trabalhando em alta disponibilidade, servindo mensalmente mais de 200 milhões de *pages views* na [plataforma dothnews](https://www.dothnews.com.br)
+Junto com a minha equipe também sou responsável pelos servidores *Linux* trabalhando em alta disponibilidade, servindo mensalmente mais de 200 milhões de *pages views* na [plataforma dothnews](https://www.dothnews.com.br)
 
 ### Trabalho e me interesso por
 
