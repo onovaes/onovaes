@@ -1,30 +1,44 @@
-### Olá, meu nome é Gabriel Novaes
 
-Sou **formado em Engenharia de Computação** e atualmente moro em Campo Grande/MS. Em 2003 começei a estagiar e desenvolver meus primeiros códigos com C++ e PHP/MySQL.
 
-Atualmente trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou revisando *pull requests* em PHP, automatizando processos ou treinando alguns desenvolvedores da equipe.
+<div id="badges" align="center">
 
-Sou responsável por uma dezena de servidores Linux trabalhando em alta disponibilidade que rodam a [plataforma dothnews](https://www.dothnews.com.br)
+<h1>Olá, meu nome é Gabriel Novaes</h1>
+
+<a href="https://www.linkedin.com/in/onovaes/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<a href="https://www.instagram.com/onovaes/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+![Onovaes](https://github-readme-stats.vercel.app/api?username=onovaes&hide=contribs&count_private=true&show_icons=true&theme=tokyonight) 
+
+</div>
+
+
+Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e atualmente moro em Campo Grande/MS. Começei em 2003 a desenolver meus primeiros códigos em C++ e PHP/MYSQL ainda no estágio da Universiadade. 
+
+Atualmente trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou revisando *pull requests* em php, automatizando processos, criando pipelines ou treinando desenvolvedores da equipe. 
+
+Junto com a minha equipe, também sou responsável pelos servidores *Linux* trabalhando em alta disponibilidade, servindo mensalmente mais de 200 milhões de *pages views* na [plataforma dothnews](https://www.dothnews.com.br)
 
 ### Trabalho e me interesso por
 
  - Kong API Gateway (Se você tem alguma dúvida sobre o Kong, entre em contato comigo, [quero te ajudar](https://www.facebook.com/groups/572729720804030))
  - Ansible
  - Cultura DEVOPS
+ - Gitlab e Bitbucket
  - PHP, Python e Shell Script
  - MYSQL, REDIS e POSTGRES
  - AWS e Digital Ocean
 
-### Me encontre aqui
-
-- [Linkedin](https://www.linkedin.com/in/onovaes/) 
-- [Meu Blog](https://blogdogabrielnovaes.wordpress.com/)
-
-
- ![Onovaes](https://github-readme-stats.vercel.app/api?username=onovaes&hide=contribs&count_private=true&show_icons=true&theme=tokyonight) 
 
 
 <!---
+
+ [] todo 
+ [] todo 
 onovaes/onovaes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
