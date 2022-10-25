@@ -1,48 +1,32 @@
 <div id="badges" align="center">
-
-<h1>Olá, meu nome é Gabriel Novaes</h1> 
-
+<h1>Hello, my name's Gabriel Novaes</h1> 
 <a href="https://www.linkedin.com/in/onovaes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
 <a href="https://www.instagram.com/onovaes/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
 ![Onovaes](https://github-readme-stats.vercel.app/api?username=onovaes&hide=contribs&count_private=true&show_icons=true&theme=tokyonight) 
-
 </div>
 
 
-Sou **[formado em Engenharia de Computação](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** e moro em Campo Grande/MS :brazil:. Em 2003, ainda na Universidade comecei a estagiar e desenvolver meus primeiros códigos em **C++ e PHP** com MySQL.
+I have a degree in **[Computer Engineering](https://blogdogabrielnovaes.files.wordpress.com/2021/04/diploma.pdf)** and I live in Campo Grande/MS :brazil:. In 2003, still at the University, doing an internship and developing my first codes with C++ and **PHP** with **MySQL**.
 
-Atualmente trabalho na [dothcom](https://www.dothcom.net) e na maioria do tempo estou **revisando *pull requests*** (a maioria em php), **automatizando processos**, **criando pipelines** ou treinando desenvolvedores da equipe. Também gosto muito de codar e faço isso sempre que tenho tempo.
+I currently work at [dothcom](https://www.dothcom.net) and most of the time I'm **reviewing *pull requests*** (mostly in php), automating processes, creating pipelines or training team members. I also really enjoy coding and I do it whenever I have time.
 
-Junto com a minha equipe também sou responsável pelos servidores *Linux* trabalhando em alta disponibilidade, servindo mensalmente mais de 200 milhões de *pages views* na [plataforma dothnews](https://www.dothnews.com.br)
+Along with my team I am also responsible for *Linux* servers working in high availability, serving more than 200 million page views of the [dothnews](https://www.dothnews.com.br) platform monthly.
 
-### Trabalho e tenho interesse em:
 
- - Kong API Gateway (Se você tem alguma dúvida sobre o Kong, entre em contato comigo, [quero te ajudar :hugs:](https://www.facebook.com/groups/572729720804030))
- - Cultura DEVOPS e Arquitetura de aplicações distribuídas
- - Ansible e Terraform
- - Bitbucket
- - PHP, Python e Shell Script
- - MYSQL, REDIS e POSTGRES
- - AWS e Digital Ocean
+### I work and am interested in:
+
+ - Kong API Gateway (If you have any questions about Kong, please contact me, [I want to help you :hugs:](https://www.facebook.com/groups/572729720804030))
+ - Devops Culture and Cultura DEVOPS and distributed application architecture
+ - Ansible and Terraform
+ - Bitbucket, GITLAB and GITHUB
+ - PHP, Python and Shell Script
+ - MYSQL, REDIS and POSTGRES
+ - AWS and Digital Ocean
  
 ---
 
 ![](https://komarev.com/ghpvc/?username=onovaes&color=green&style=for-the-badge)
-
-<!---
-
- [] todo 
- [] todo 
-
-onovaes/onovaes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-Example- (https://github-readme-stats.vercel.app/api?username=onovaes&hide=contribs,prs)
---->
