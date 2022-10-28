@@ -22,7 +22,7 @@ I currently work at [dothcom](https://www.dothcom.net) and most of the time I'm 
 Along with my team I am also responsible for *Linux* servers working in high availability, serving more than 200 million page views of the [dothnews](https://www.dothnews.com.br) platform monthly.
 
 
-### I work and am interested in:
+### Work and interest
 
  - Kong API Gateway (If you have any questions about Kong, please contact me, [I want to help you :hugs:](https://www.facebook.com/groups/572729720804030))
  - Devops Culture and distributed application architecture
@@ -30,7 +30,7 @@ Along with my team I am also responsible for *Linux* servers working in high ava
  - Bitbucket, GITLAB and GITHUB
  - PHP, Python and Shell Script
  - MYSQL, REDIS and PostgreSQL
- - AWS and Digital Ocean
+ - AWS, GCP and Digital Ocean
  
 ---
 
