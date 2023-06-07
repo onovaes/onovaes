@@ -27,10 +27,10 @@ Along with my team I am also responsible for *Linux* servers working in high ava
  - Kong API Gateway (If you have any questions about Kong, please contact me, [I want to help you :hugs:](https://www.facebook.com/groups/572729720804030))
  - Devops Culture and distributed application architecture
  - Ansible and Terraform
+ - Laravel
  - Bitbucket, GITLAB and GITHUB
- - PHP, Python and Shell Script
  - MYSQL, REDIS and PostgreSQL
- - AWS, GCP and Digital Ocean
+ - AWS and Digital Ocean
  
 ---
 
